@@ -1,0 +1,5 @@
+n,TK_MiB,shares_resident_in_93MiB,req_per_s_resident,req_per_s_unseal
+64,7.75,12,29.9,25.9
+128,15.5,6,8.2,7.4
+256,31.0,3,5.0,4.3
+384,46.5,2,4.4,3.5

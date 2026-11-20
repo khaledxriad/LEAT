@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the associated paper."
+title: "LEAT: Lattice-Based Edge-Attested Transformation for Attribute-Based Encryption (reference implementation)"
+authors:
+  - family-names: Riad
+    given-names: Khaled
+    email: kriad@kfu.edu.sa
+    affiliation: "Computer Science Department, College of Computer Sciences & Information Technology, King Faisal University, Al-Ahsa, 31982, Saudi Arabia"
+license: MIT
+version: 1.0.0
+date-released: 2026-11-20
+repository-code: "[Shared Later]"
+doi: "[Shared Later]"

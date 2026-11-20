@@ -1,0 +1,5 @@
+n,trials,leat_ok,local_ok,worst_noise_over_q4,negative_rejected
+64,60,60,60,0.0007,60
+128,60,60,60,0.0012,60
+256,60,60,60,0.0023,60
+384,60,60,60,0.0036,60

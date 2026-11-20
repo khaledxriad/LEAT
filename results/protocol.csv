@@ -1,0 +1,6 @@
+step,time_ms
+Attested-channel handshake (X25519 + HKDF + quote check),0.123
+Epoch certificate: Ed25519 sign + verify + state update (100 revoked users),0.178
+AES-256-GCM encrypt 1 MiB payload,0.096
+AES-256-GCM decrypt 1 MiB payload,0.089
+"P-256 scalar multiplication (ECDH, OpenSSL)",0.049
