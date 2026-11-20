@@ -92,7 +92,7 @@ is as modeled.
 Install:
 
 ```bash
-git clone [Shared Later]
+git clone https://github.com/khaledxriad/LEAT.git
 cd LEAT
 python3 -m venv .venv
 source .venv/bin/activate        # Windows: .venv\Scripts\activate
@@ -168,7 +168,7 @@ pip install -r requirements.txt
 * Analytic outputs (sizes, core-SVP bits, projections, revocation and end-to-end models) are deterministic.
 * Correctness runs use random keys and attribute sets, so the worst-noise column varies slightly by seed;
   all trials must still pass.
-* Archived release: Zenodo **[Shared Later]**.
+* Archived release: Zenodo [https://doi.org/10.5281/zenodo.24398926](https://doi.org/10.5281/zenodo.24398926).
 
 ## Citation
 
@@ -179,7 +179,7 @@ If you use this code, please cite the paper (see also `CITATION.cff`):
   author  = {Riad, Khaled},
   title   = {{LEAT}: Lattice-Based Edge-Attested Transformation for Attribute-Based Encryption},
   year    = {2026},
-  note    = {Manuscript under review. Code: [Shared Later]. Zenodo: [Shared Later]}
+  note    = {Manuscript under review. Code: https://github.com/khaledxriad/LEAT. Zenodo: https://doi.org/10.5281/zenodo.24398926}
 }
 ```
 
